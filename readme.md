@@ -23,4 +23,4 @@ The project uses **OpenCV** and **MediaPipe** for hand landmark detection and ge
 - NumPy
 
 
-# Hand-Gesture-Control-Opencv
+
