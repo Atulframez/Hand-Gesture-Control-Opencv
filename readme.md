@@ -22,5 +22,32 @@ The project uses **OpenCV** and **MediaPipe** for hand landmark detection and ge
 - MediaPipe
 - NumPy
 
+## 🎯 Learning Outcomes
 
+Real-time computer vision processing
 
+Hand landmark detection using MediaPipe
+
+Gesture recognition logic
+
+Webcam video handling with OpenCV
+
+Human–computer interaction concepts
+
+##  🔮 Future Enhancements
+
+Multiple hand support
+
+Custom gesture training
+
+Game or robot integration
+
+GUI dashboard
+
+Performance optimization
+
+## 👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
